@@ -3,8 +3,8 @@ public class main {
         Inventor inventor_1 = new Inventor_1("Nikolas Tesla", 86, 100, "Bobina de Tesla",
                 "Estudiar los efectos de la electricidad en el cuerpo humano",
                 "una base de madera, un tubo (generalmente de PVC), alambre esmaltado (magneto) para el embobinado secundario, un transistor, una resistencia, un interruptor, una pila de 9V con su conector, y en algunos casos papel de aluminio para el terminal superior y una pelota de tecnopor o esfera de unicel como electrodo.");
-        Inventor inventor_2 = new Inventor_2("Ada Lovelace", 36, 100, "Algoritmo para la máquina analítica",
-                "Algoritmo de Bernoulli", "Lenguaje de programación", "Calcular números de Bernoulli");
+        Inventor inventor_2 = new Inventor_2("Mark Zuckerberg ", 41, 100, "Meta",
+                "Facebook", "React entre otros", "Calcular números de Bernoulli");
         Inventor inventor_3 = new Inventor_3("Marie Curie", 66, 100, "Descubrimiento del radio y el polonio",
                 "Experimento de la radiactividad", "Medir la radiactividad de diferentes sustancias");
 
